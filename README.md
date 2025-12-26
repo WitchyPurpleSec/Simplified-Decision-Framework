@@ -2,7 +2,7 @@
 
 This document will instruct Information Security, Information Technology, and GRC professionals on how to leverage a Simplified Decision Framework (SDF) to improve and expedite decision making capabilities. This practical framework narrows decision-making down to 3 core concepts aimed to help teams avoid analysis paralysis while maintaining alignment with organizational objectives and requirements.
 
-[Insert Simplifed Info Graphic]
+![Simplified Decsion Framework Diagram - Skeleton](/images/skeleton-sdf-circle-bg.png)
 
 # Table of Contents
 
