@@ -19,6 +19,8 @@ Learning to adapt these simple, practical tools to your organization’s decisio
 
 # What Governs You?
 
+<p align="center"> <img src="./images/Governance-header.png" alt="Simplified Decsion Framework - Governance]"/> </p>
+
 Governance is more than just the needs of a single department inside of an organization. Governing requirements can come from multiple business units and functions of an organization. The governance principals, requirements, and frameworks used to guide the business should also guide your decision making. To start understanding what governs you, you need a firm understanding of any legal, industrial, or business requirements your organization must follow. Knowing the governance principles and using them to guide your decision making will ensure your new program, project, or decision will be optimally beneficial to the organization while avoiding pitfalls that could cause compliance, financial, or legal issues. 
 
 # What Are Your "Crown Jewels"?
@@ -37,4 +39,5 @@ An understanding of appropriately trained staff with skills related to your deci
 
 Risk sits at the center of our Simplified Decision Framework because its the core and driving factor for everything we do in Information Security and Technology. Our role is to innovate or assist with innovation by ensuring key members of our organization can do their work in a safe and compliant manner.
 ## Pitfalls of Risk
+<p align="center"> <img src="./images/RiskPitfalls-header.png" alt="Simplified Decsion Framework - Risk Pitfalls]"/> </p>
 A key element when we discuss risk is to remember organizational risk does not always equate to what cyber security or technology focused teams consider vulnerabilities. While bad actors, compromised equipment, and vulnerable software could all fall in to the risk category organizational risk covers so much more. Risks impact our organizations ability to function, accomplish goals/missions, and generate revenue. In its simplest form risk can be anything that impacts the companies income. Day to day technology focused teams focus on items like uptime and management of vulnerabilities. These are important components of risk but additional items may include business and legal requirements. The states and countries in which our organization operates may have regulations that enforce requirements on us. Our role within the organization is to ensure when we make a decision, deploy new hardware/software, or build a new process it operates within the acceptable risk and guidelines laid out by these governance requirements and mandates.
