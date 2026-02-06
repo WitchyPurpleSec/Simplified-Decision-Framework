@@ -1,6 +1,6 @@
 # Simplified Decision Framework (SDF)
 
-The purpose of this Simplified Decision Framework is to assist Information Security, Information Technology, and GRC professionals on leveraging a simple method to improve and expedite decision making capabilities. This practical framework narrows decision-making down to three core concepts aimed at helping teams avoid analysis paralysis while maintaining alignment with organizational objectives, staffing or people availability, and governance requirements.
+The purpose of this Simplified Decision Framework is to assist Information Security, Information Technology, and GRC professionals on leveraging a simple method to improve and expedite decision making capabilities. This practical framework narrows decision-making down to three core concepts aimed at helping teams avoid analysis paralysis while maintaining alignment with organizational objectives, people capital, and governance requirements.
 
 <p align="center"> <img src="./images/skeleton-sdf-circle-bg.png" alt="Simplified Decsion Framework Diagram - Skeleton]"/> </p>
 
