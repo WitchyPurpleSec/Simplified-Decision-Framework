@@ -17,6 +17,10 @@ The SDF is designed to be a practical tool built around three core questions tha
 The SDF is designed to be flexible and agile, allowing it to be tuned accordingly for large scale as well as day-to-day decisions.  This documentation outlines the core components and concepts of the SDF. Each of the big W’s will be outlined in detail to allow practitioners to understand the relevance and importance of each of these core components. It also includes guidance for identifying and mapping organizational risks to the framework. Additionally, included are Guiding Principles, Compliance Mapping, and Implementation Guides.
 Learning to adapt these simple, practical tools to your organization’s decision-making efforts and lifecycles will help Governance, IT, and Information Security leaders make effective decisions.
 
+# What Are The Components of The SDF?
+
+<p align="center"> <img src="./images/Image-sdf-circle.png" alt="SSimplified Decsion Framework Diagram - Graphical Version]"/> </p>
+
 # What Governs You?
 
 <p align="center"> <img src="./images/Governance-header.png" alt="Simplified Decsion Framework - Governance]"/> </p>
