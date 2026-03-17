@@ -6,6 +6,8 @@ The purpose of this Simplified Decision Framework is to assist Information Secur
 
 # Table of Contents
 
+<b> Authored By: </b> Stephanie Gass and Mathew Everman
+
 # Executive Summary
 
 Across the Information Technology (IT) and Information Security (InfoSec) fields decision makers struggle to ensure their projects, processes, and deployments meet the needs of the larger organization. Key decision makers from Governance, IT, and Information Security teams need to ensure they are aligning these complex choices with risk, governance, and staffing while supporting efforts to drive innovation and meet business needs. Making these key decisions often requires an element of agility and expedition as priorities shift in a modern business environment which can lead to non-conformance, deployment failure, and the introduction of organizational risk. It’s easy to become overwhelmed by daily tasks and fall into analysis paralysis or decision fatigue – especially when tackling complex initiatives like selecting a SIEM, building an AI policy, or creating proactive security plans. This Simplified Decision Framework (SDF) aims to ensure alignment with the organization's needs while increasing the timeliness of decision-making.
