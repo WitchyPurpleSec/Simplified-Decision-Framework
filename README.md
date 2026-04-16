@@ -98,12 +98,16 @@ Once users have identified their big W’s, and the relevant risk impact, the co
 
 Documenting or visualizing the key components of the decision-making process that capture core business needs, required people capital, and compliance requirements allows for quick, fact based, alignment during planning sessions, meetings, or brainstorming. The SDF is designed to be versatile and highly customizable. Framework users can change components or document in a way that works best for them (e.g., using a simple three column text design instead of a circle). As your process matures, users may choose to start formalizing use of the framework as a requirement for company initiatives. Standardizing the SDF and building it as a requirement in cross functional business processes allows for less friction and faster organization level decision-making.
 
+You can find additional examples in our slide deck found <a href="https://github.com/WitchyPurpleSec/Simplified-Decision-Framework/blob/main/SDF%201.1.pdf">here</a>.
+
 # Resources
 
-You can find downloadable, full size, “fill in ready” versions of the SDF <a href="https://github.com/WitchyPurpleSec/Simplified-Decision-Framework/blob/main/images/Simple3Ws-Printable.png">here</a>. Additionally, if you’d like full size versions of the commissioned artwork above that represent the big W’s you can find those <a href="https://github.com/WitchyPurpleSec/Simplified-Decision-Framework/tree/main/images">here</a>.
+You can find downloadable, full size, “fill in ready” versions of the SDF <a href="https://github.com/WitchyPurpleSec/Simplified-Decision-Framework/blob/main/images/Simple3Ws-Printable.png">here</a>. Additionally, if you’d like full size versions of the commissioned artwork above that represent the big W’s you can find those <a href="https://github.com/WitchyPurpleSec/Simplified-Decision-Framework/tree/main/images">here</a>. You can also review the slide deck from our formal announcement and release of the framework <a href="https://path.rsaconference.com/flow/rsac/us26/FullAgenda/page/catalog/session/1754420739891001weS5">here</a>.
 
 # Versions
+Version 1.1
+* Added contents of our <a href="https://github.com/WitchyPurpleSec/Simplified-Decision-Framework/blob/main/SDF%201.1.pdf">slide deck</a> from our RSA presentation (RSA Theme removed).
 
 Version 1.0
 * Released March 23rd 2026
-* Formal release announcement during the 2026 RSA Conference by Stephanie Gass and Mathew Everman.
+* Formal <a href="https://path.rsaconference.com/flow/rsac/us26/FullAgenda/page/catalog/session/1754420739891001weS5">release announcement</a> during the 2026 RSA Conference by Stephanie Gass and Mathew Everman.
